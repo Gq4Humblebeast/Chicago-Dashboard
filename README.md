@@ -3,4 +3,5 @@
 
 This repo contains code for the portfolio project
 
-![Chicago Skyline](https://github.com/user-attachments/assets/55faa8a6-f4f3-4276-9bda-995e0634a3e9
+
+![ChicagoDashboard ](https://github.com/user-attachments/assets/b0a2cf71-edb9-40cf-a7e7-de2ce081736f)
