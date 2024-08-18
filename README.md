@@ -1,7 +1,7 @@
 # Chicago Population Dashboard (2018 - 2022)
 ### Interactive visualization dashboard in Python 
 
-In this project I analyzed the population of my hometown Chicago with data from 2018 to 2021. I specifically focused on the Zip Codes (60609, 60649, 60624) that I lived in growing up which mostly revolves around the southside of Chicago. Additionally I also focused on the Male and Female population within those areas. Lastly, I focused on my generation, GenZ in comparison with GenX and Millennials. With this focus I was able to create Interactive visualizations to make up my dashboard to see how the population has changed overtime in Chicago through the years. 
+In this project, I analyzed the population of my hometown, Chicago, using data from 2018 to 2021. I specifically focused on the ZIP codes 60609, 60649, and 60624, which are centered around the South Side of Chicago, where I grew up. Additionally, I examined the male and female populations within these areas. I also compared my generation, Gen Z, with Gen X and Millennials. This analysis allowed me to create interactive visualizations for my dashboard, illustrating how the population in Chicago has changed over time.
 
 For more information on how I used python to create my dashboard check out my attched file Chicago(2).ipynb 
 
