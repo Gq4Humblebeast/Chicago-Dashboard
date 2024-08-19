@@ -6,7 +6,8 @@ In this project, I analyzed the population of my hometown, Chicago, using data f
 For more information on how I used python to create my dashboard check out my attched file Chicago(2).ipynb 
 
 
-![ChicagoDashboard ](https://github.com/user-attachments/assets/b0a2cf71-edb9-40cf-a7e7-de2ce081736f)
+![image](https://github.com/user-attachments/assets/d29cbacd-a524-4838-9fd9-38c3ca776816)
+
 
 ## Open Terminal 
 My project started in Open Terminal
